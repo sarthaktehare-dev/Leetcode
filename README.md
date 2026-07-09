@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0020-valid-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2000-reverse-prefix-of-word](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0128-longest-consecutive-sequence](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1025-divisor-game) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
