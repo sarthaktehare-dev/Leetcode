@@ -35,11 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0128-longest-consecutive-sequence](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0229-majority-element-ii) |
 | [2404-most-frequent-even-element](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2404-most-frequent-even-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0229-majority-element-ii) |
 | [2404-most-frequent-even-element](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2404-most-frequent-even-element) |
 ## Union-Find
 |  |
@@ -64,5 +66,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0229-majority-element-ii) |
 | [2404-most-frequent-even-element](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2404-most-frequent-even-element) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
