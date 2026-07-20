@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0229-majority-element-ii) |
+| [1260-shift-2d-grid](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2404-most-frequent-even-element](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2404-most-frequent-even-element) |
 ## Hash Table
@@ -114,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0796-rotate-string) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
