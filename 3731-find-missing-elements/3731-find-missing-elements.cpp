@@ -11,7 +11,7 @@ public:
            
     for(int i : nums) mp[i]++;
 
-    for(int i = smallest ; i < largest; i++){
+    for(int i = smallest + 1; i < largest; i++){
         if(mp.find(i) == mp.end())
         ans.push_back(i);
     }
