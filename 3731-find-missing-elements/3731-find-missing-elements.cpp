@@ -3,20 +3,18 @@ public:
     vector<int> findMissingElements(vector<int>& nums) {
         
         vector<int> ans; 
-        vector<int> temp;
+        unordered_map<int,int> mp;
+
 
         int largest = *max_element(nums.begin() , nums.end());
         int smallest = *min_element(nums.begin() , nums.end());
            
-        sort(nums.begin() , nums.end());
+    for(int i : nums) mp[i]++;
 
-             int idx = 0;
-        for(int i = smallest; i < largest; i++){
-           if(nums[idx] != i){
-            ans.push_back(i);
-           }
-           else idx++;
-        }
+    for(int i = smallest ; i < largest; i++){
+        if(mp.find(i) == mp.end())
+        ans.push_back(i);
+    }
          
          
 
