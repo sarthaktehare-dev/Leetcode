@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2404-most-frequent-even-element](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [3024-type-of-triangle](https://github.com/sarthaktehare-dev/Leetcode/tree/master/3024-type-of-triangle) |
+| [3731-find-missing-elements](https://github.com/sarthaktehare-dev/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2404-most-frequent-even-element) |
+| [3731-find-missing-elements](https://github.com/sarthaktehare-dev/Leetcode/tree/master/3731-find-missing-elements) |
 ## Union-Find
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3024-type-of-triangle](https://github.com/sarthaktehare-dev/Leetcode/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/sarthaktehare-dev/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/sarthaktehare-dev/Leetcode/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
 | ------- |
