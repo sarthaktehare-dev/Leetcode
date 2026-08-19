@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0061-rotate-list) |
 | [2000-reverse-prefix-of-word](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
 |  |
@@ -173,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
