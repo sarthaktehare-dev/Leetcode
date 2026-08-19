@@ -5,13 +5,14 @@ public:
      unordered_map<int , int> mp;
      int ans = -1;
 
-     for(int  i : arr) mp[i]++;
+     for(int i : arr) mp[i]++;
 
-     for(auto it :  mp){
+     for(auto it : mp){
         if(it.first == it.second)
-        ans = max(ans , it.second);
-        
+        ans = max(ans , it.first);
      }   
+
      return ans;
+
     }
 };
