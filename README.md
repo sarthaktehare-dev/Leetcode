@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0796-rotate-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2000-reverse-prefix-of-word](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/sarthaktehare-dev/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2404-most-frequent-even-element) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/sarthaktehare-dev/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3731-find-missing-elements](https://github.com/sarthaktehare-dev/Leetcode/tree/master/3731-find-missing-elements) |
 ## Union-Find
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2404-most-frequent-even-element) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/sarthaktehare-dev/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
