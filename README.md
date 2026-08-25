@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3024-type-of-triangle](https://github.com/sarthaktehare-dev/Leetcode/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sarthaktehare-dev/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sarthaktehare-dev/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/sarthaktehare-dev/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/sarthaktehare-dev/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3692-majority-frequency-characters](https://github.com/sarthaktehare-dev/Leetcode/tree/master/3692-majority-frequency-characters) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sarthaktehare-dev/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/sarthaktehare-dev/Leetcode/tree/master/3731-find-missing-elements) |
 ## Union-Find
 |  |
