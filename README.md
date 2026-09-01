@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0796-rotate-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2000-reverse-prefix-of-word](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2810-faulty-keyboard](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2810-faulty-keyboard) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/sarthaktehare-dev/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3692-majority-frequency-characters](https://github.com/sarthaktehare-dev/Leetcode/tree/master/3692-majority-frequency-characters) |
 ## Greedy
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1260-shift-2d-grid) |
+| [2810-faulty-keyboard](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2810-faulty-keyboard) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sarthaktehare-dev/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3360-stone-removal-game](https://github.com/sarthaktehare-dev/Leetcode/tree/master/3360-stone-removal-game) |
