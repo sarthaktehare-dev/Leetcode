@@ -3,8 +3,7 @@ public:
     string reverseVowels(string s) {
         
         vector<char> temp;
-      //  vector<char> ans;
-      //  for(char ch : s) ans.push_back(ch);
+    
 
         for(int i = 0; i < s.size(); i++){
 if(s[i] == 'a' || s[i] == 'A' || s[i] == 'e' || s[i] == 'E' || s[i] == 'i' || s[i] == 'I' || s[i] == 'o' || s[i] == 'O'|| s[i] == 'u' || s[i] == 'U'){
