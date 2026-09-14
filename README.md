@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0009-palindrome-number) |
+| [0836-rectangle-overlap](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -214,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0061-rotate-list) |
 | [0328-odd-even-linked-list](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0328-odd-even-linked-list) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
