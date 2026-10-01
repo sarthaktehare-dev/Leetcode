@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0414-third-maximum-number](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0724-find-pivot-index](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0414-third-maximum-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3024-type-of-triangle](https://github.com/sarthaktehare-dev/Leetcode/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/sarthaktehare-dev/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
