@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2000-reverse-prefix-of-word](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2810-faulty-keyboard](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2810-faulty-keyboard) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/sarthaktehare-dev/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3692-majority-frequency-characters](https://github.com/sarthaktehare-dev/Leetcode/tree/master/3692-majority-frequency-characters) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2270-number-of-ways-to-split-array](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2574-left-and-right-sum-differences](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/sarthaktehare-dev/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -246,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 <!---LeetCode Topics End-->
