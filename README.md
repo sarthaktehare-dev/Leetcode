@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1025-divisor-game](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
