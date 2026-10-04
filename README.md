@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0009-palindrome-number) |
+| [0507-perfect-number](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
