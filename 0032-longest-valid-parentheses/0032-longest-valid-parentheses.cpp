@@ -13,7 +13,6 @@ public:
             }
             else{
                 st.pop();
-
                 if(!st.empty()){
                     ans = max(ans , i - st.top());
                 }
