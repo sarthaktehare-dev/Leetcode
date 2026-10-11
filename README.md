@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2270-number-of-ways-to-split-array) |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2404-most-frequent-even-element](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2574-left-and-right-sum-differences](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0414-third-maximum-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [3024-type-of-triangle](https://github.com/sarthaktehare-dev/Leetcode/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/sarthaktehare-dev/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/sarthaktehare-dev/Leetcode/tree/master/3731-find-missing-elements) |
