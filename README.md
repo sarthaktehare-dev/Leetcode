@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
+| [2293-min-max-game](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2293-min-max-game) |
 | [2404-most-frequent-even-element](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2574-left-and-right-sum-differences](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1260-shift-2d-grid) |
+| [2293-min-max-game](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2293-min-max-game) |
 | [2810-faulty-keyboard](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2810-faulty-keyboard) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sarthaktehare-dev/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
