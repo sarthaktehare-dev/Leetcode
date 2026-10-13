@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0009-palindrome-number) |
 | [0507-perfect-number](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0507-perfect-number) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0092-reverse-linked-list-ii) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bracket Sequences
