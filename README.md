@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0877-stone-game) |
+| [0989-add-to-array-form-of-integer](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0724-find-pivot-index](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0877-stone-game) |
+| [0989-add-to-array-form-of-integer](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1207-unique-number-of-occurrences](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
