@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0415-add-strings](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0796-rotate-string) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0009-palindrome-number) |
+| [0415-add-strings](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0877-stone-game) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2293-min-max-game](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2293-min-max-game) |
 | [2810-faulty-keyboard](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2810-faulty-keyboard) |
