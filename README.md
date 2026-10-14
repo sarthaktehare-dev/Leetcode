@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0414-third-maximum-number) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0383-ransom-note) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0414-third-maximum-number) |
@@ -199,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0169-majority-element) |
 ## Number Theory
 |  |
 | ------- |
@@ -297,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0877-stone-game) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
