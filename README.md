@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2810-faulty-keyboard](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2810-faulty-keyboard) |
+| [2942-find-words-containing-character](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/sarthaktehare-dev/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3692-majority-frequency-characters](https://github.com/sarthaktehare-dev/Leetcode/tree/master/3692-majority-frequency-characters) |
 ## Greedy
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2574-left-and-right-sum-differences](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2942-find-words-containing-character](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3024-type-of-triangle](https://github.com/sarthaktehare-dev/Leetcode/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sarthaktehare-dev/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
