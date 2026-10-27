@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0070-climbing-stairs) |
+| [0292-nim-game](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0415-add-strings) |
@@ -164,10 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1025-divisor-game) |
 ## Trie
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0877-stone-game) |
 ## Zero-Sum Game
 |  |
@@ -322,4 +326,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
