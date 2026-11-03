@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2293-min-max-game](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2293-min-max-game) |
 | [2404-most-frequent-even-element](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2574-left-and-right-sum-differences](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2270-number-of-ways-to-split-array](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2574-left-and-right-sum-differences](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3903-smallest-stable-index-i](https://github.com/sarthaktehare-dev/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sarthaktehare-dev/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Linked List
