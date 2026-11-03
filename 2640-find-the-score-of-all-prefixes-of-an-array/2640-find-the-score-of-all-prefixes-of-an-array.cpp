@@ -10,13 +10,15 @@ public:
          for(int i = 0; i < nums.size(); i++){
                 maxi = max(maxi, nums[i]);
                 
-                ans[i] = nums[i] +  maxi;
+                long long num = nums[i] +  maxi;
+
+                sum += num;
+
+                ans[i] = sum;
+
          }
 
-         for(int i  = 0; i < nums.size(); i++){
-               sum += ans[i];
-             ans[i] = sum;
-         }
+        
            return ans;
     }       
 };
