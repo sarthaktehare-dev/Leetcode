@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1207-unique-number-of-occurrences](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [3024-type-of-triangle](https://github.com/sarthaktehare-dev/Leetcode/tree/master/3024-type-of-triangle) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0367-valid-perfect-square](https://github.com/sarthaktehare-dev/Leetcode/tree/master/0367-valid-perfect-square) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Divide and Conquer
 |  |
