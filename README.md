@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sarthaktehare-dev/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2000-reverse-prefix-of-word](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2810-faulty-keyboard](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2810-faulty-keyboard) |
 | [2942-find-words-containing-character](https://github.com/sarthaktehare-dev/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/sarthaktehare-dev/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
